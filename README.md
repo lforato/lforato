@@ -1,7 +1,4 @@
-# Welcome
-![luffy-hungry-eyes-m3tpxssw9lxk7f8z](https://github.com/user-attachments/assets/7959a69a-3f43-458c-88bd-a766fe975efe)
-
-
+![213866269-5d00981c-7c98-46d7-8a8e-16f462f15227](https://github.com/user-attachments/assets/7daf53a7-2672-4e72-b14d-143e409f44cd) ![213866269-5d00981c-7c98-46d7-8a8e-16f462f15227](https://github.com/user-attachments/assets/7daf53a7-2672-4e72-b14d-143e409f44cd) ![213866269-5d00981c-7c98-46d7-8a8e-16f462f15227](https://github.com/user-attachments/assets/7daf53a7-2672-4e72-b14d-143e409f44cd)
 
 # 💫 About Me:
 I'm Lucas, a Full stack software engineer based on Brazil<br>
