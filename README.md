@@ -1,5 +1,3 @@
-![213866269-5d00981c-7c98-46d7-8a8e-16f462f15227](https://github.com/user-attachments/assets/7daf53a7-2672-4e72-b14d-143e409f44cd) ![213866269-5d00981c-7c98-46d7-8a8e-16f462f15227](https://github.com/user-attachments/assets/7daf53a7-2672-4e72-b14d-143e409f44cd) ![213866269-5d00981c-7c98-46d7-8a8e-16f462f15227](https://github.com/user-attachments/assets/7daf53a7-2672-4e72-b14d-143e409f44cd)
-
 # 💫 About Me:
 I'm Lucas, a Full stack software engineer based on Brazil<br>
 🔭 I am interested in low level and systems programming, as well as building cool products<br>
